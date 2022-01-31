@@ -3,15 +3,15 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA02uLU8WUACT4KeFITE08QHP_MaUXItYI",
-  authDomain: "money-manager-a5357.firebaseapp.com",
-  projectId: "money-manager-a5357",
-  storageBucket: "money-manager-a5357.appspot.com",
-  messagingSenderId: "161021403677",
-  appId: "1:161021403677:web:4fa8fd67d17a44b8265cf4",
+  apiKey: "AIzaSyDYdVaNKueDToUh0XAYXQi7idSgSq33xyU",
+  authDomain: "my-money-b58eb.firebaseapp.com",
+  projectId: "my-money-b58eb",
+  storageBucket: "my-money-b58eb.appspot.com",
+  messagingSenderId: "292647681313",
+  appId: "1:292647681313:web:77713293a0aa219ab95260",
 };
 
-// init firestore
+// init firebase
 firebase.initializeApp(firebaseConfig);
 
 // init service
